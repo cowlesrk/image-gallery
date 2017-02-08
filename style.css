@@ -6,5 +6,12 @@ img {
 	each one has margin of 1.66%, 
 	so we take both sides x2 plus 30% = 33.3% 
 	which equals 1/3 or 3 per row on a page*/
-	
+}
+
+p {
+	font-family: Raleway;
+	margin-left: 1.66%;
+	font-size: 23px;
+	font-weight: 800;
+	text-transform: uppercase;
 }
